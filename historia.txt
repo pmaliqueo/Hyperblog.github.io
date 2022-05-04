@@ -1,3 +1,5 @@
 Esta es la historia de Pedro Maliqueo Escobar
 
 Pedro Maliqueo Escobar tiene 36 años y nació en Santiago de Chile
+
+Estamos trabajando con html y css
