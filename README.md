@@ -1,4 +1,4 @@
-#Hyperblog
+# Hyperblog
 
 Un Blog para practicar el curso de Git y GitHub 
 
@@ -6,4 +6,4 @@ Un Blog para practicar el curso de Git y GitHub
 
 En este curso pudimos entender el inicio de un repositorio en Git, todos los comandos de Git, el trabajo con ramas hasta el trabajo colaborativo y pull request en la plataforma de GitHub.
 
-#**Este README es un trabajo práctio para el curso mencionado en Platzi.**
+## **Este README es un trabajo práctio para el curso mencionado en Platzi.**
