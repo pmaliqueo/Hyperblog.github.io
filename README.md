@@ -9,3 +9,4 @@ En este curso pudimos entender el inicio de un repositorio en Git, todos los com
 ## **Este README es un trabajo práctio para el curso mencionado en Platzi.**
 
 *Creado por Pedro Maliqueo
+*Incluye ejemplos de Windows, Linux y Mac
