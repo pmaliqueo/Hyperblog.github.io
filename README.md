@@ -10,3 +10,4 @@ En este curso pudimos entender el inicio de un repositorio en Git, todos los com
 
 *Creado por Pedro Maliqueo
 *Incluye ejemplos de Windows, Linux y Mac
+*Disponible para todas las edades
